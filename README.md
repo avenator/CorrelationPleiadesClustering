@@ -1,2 +1,2 @@
 # CorrelationPleiadesClustering
-My realisation of Correlation Pleiades clustering metod
+My realization of Correlation Pleiades clustering metod
